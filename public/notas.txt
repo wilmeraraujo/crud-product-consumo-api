@@ -1,0 +1,2 @@
+--instalacion de librerias
+npm install react-router-dom axios bootstrap sweetalert2 sweetalert2-react-content @fortawesome/fontawesome-free
